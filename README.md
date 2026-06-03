@@ -7,7 +7,7 @@ The primary focus of this project is to build a highly scalable and decoupled da
 
 ## Architecture and Components
 
-### 1. Custom Annotations (`@DataProcessor`)
+### 1. Custom Annotations (`@DataProcessor`) 
 * **Purpose**: Enforces a declarative metadata architecture by targeting data manipulation methods at runtime.
 * **Retention Policy**: Retained in the JVM during execution via `@Retention(RetentionPolicy.RUNTIME)` to allow dynamic scanning by reflection mechanisms.
 
