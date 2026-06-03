@@ -36,4 +36,4 @@ This project successfully demonstrates the use of reflection and annotations to 
 * Name: Pavel Petrovich Koshelev
 * Group: BST 2401
 * Institution: MTUCI
-* Year: 2026
+* Year: 2026 
